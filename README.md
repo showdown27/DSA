@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/showdown27/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/showdown27/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/showdown27/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/showdown27/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/showdown27/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/showdown27/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/showdown27/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
