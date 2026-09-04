@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/showdown27/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/showdown27/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/showdown27/DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/showdown27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/showdown27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/showdown27/DSA/tree/master/0525-contiguous-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/showdown27/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/showdown27/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/showdown27/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/showdown27/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/showdown27/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/showdown27/DSA/tree/master/0525-contiguous-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/showdown27/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/showdown27/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/showdown27/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/showdown27/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/showdown27/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/showdown27/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -147,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/showdown27/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
