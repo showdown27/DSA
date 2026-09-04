@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/showdown27/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/showdown27/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/showdown27/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/showdown27/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/showdown27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/showdown27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/showdown27/DSA/tree/master/0525-contiguous-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/showdown27/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/showdown27/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/showdown27/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/showdown27/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/showdown27/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/showdown27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/showdown27/DSA/tree/master/0443-string-compression) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/showdown27/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/showdown27/DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
